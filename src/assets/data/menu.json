@@ -1,0 +1,112 @@
+[
+    {
+      "icon": "appstore",
+      "name": "Alert",
+      "redirectTo": "/alert"
+    },
+    {
+      "icon": "share",
+      "name": "Action Sheet",
+      "redirectTo": "/action-sheet"
+    },
+    {
+      "icon": "person",
+      "name": "Avatar",
+      "redirectTo": "/avatar"
+    },
+    {
+      "icon": "cube",
+      "name": "Botones y Router",
+      "redirectTo": "/botones"
+    },
+    {
+      "icon": "card",
+      "name": "CardView",
+      "redirectTo": "/card"
+    },
+    {
+      "icon": "checkbox",
+      "name": "Check",
+      "redirectTo": "/check"
+    },
+    {
+      "icon": "calendar",
+      "name": "Date Time",
+      "redirectTo": "/date-time"
+    },
+    {
+      "icon": "add-circle",
+      "name": "Fab",
+      "redirectTo": "/fab"
+    },
+    {
+      "icon": "grid",
+      "name": "Grid",
+      "redirectTo": "/grid"
+    },
+    {
+      "icon": "infinite",
+      "name": "Infinite Scroll",
+      "redirectTo": "/infinite-scroll"
+    },
+    {
+      "icon": "create",
+      "name": "Input",
+      "redirectTo": "/input"
+    },
+    {
+      "icon": "list",
+      "name": "Listas Sliding",
+      "redirectTo": "/list"
+    },
+    {
+      "icon": "move",
+      "name": "Listas Reorder",
+      "redirectTo": "/list-reorder"
+    },
+    {
+      "icon": "pulse",
+      "name": "Loading",
+      "redirectTo": "/loading"
+    },
+    {
+      "icon": "albums",
+      "name": "Modal",
+      "redirectTo": "/modal"
+    },
+    {
+      "icon": "list-box",
+      "name": "PopOver",
+      "redirectTo": "/pop-over"
+    },
+    {
+      "icon": "git-commit",
+      "name": "ProgressBar",
+      "redirectTo": "/progress-bar"
+    },
+    {
+      "icon": "sync",
+      "name": "Refresher",
+      "redirectTo": "/refresher"
+    },
+    {
+      "icon": "search",
+      "name": "Searchbar",
+      "redirectTo": "/searchbar"
+    },
+    {
+      "icon": "options",
+      "name": "Segment",
+      "redirectTo": "/segment"
+    },
+    {
+      "icon": "more",
+      "name": "Slides",
+      "redirectTo": "/slides"
+    },
+    {
+      "icon": "square",
+      "name": "Tabs",
+      "redirectTo": "/tabs/account"
+    }
+  ]

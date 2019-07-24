@@ -1,0 +1,34 @@
+<ion-header no-border [ngClass]="ocultar">
+  <ion-toolbar>
+    <img src="/assets/slides/user-6.svg" class="avatar animated fadeIn">
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+  <ion-slides pager="true" class="slide-full">
+
+    <ion-slide *ngFor="let slide of slides">
+      <ion-card mode="ios">
+        <img [src]="slide.img" class="slide-image">
+        <ion-card-header>
+          <ion-card-title>
+            {{slide.titulo}}
+          </ion-card-title>
+        </ion-card-header>
+        <ion-card-content>
+          {{slide.desc}}
+        </ion-card-content>
+      </ion-card>
+
+      <ion-fab vertical="bottom" horizontal="end" slot="fixed">
+          <ion-fab-button (click)="onClick()">
+            <ion-icon name="log-out"></ion-icon>
+          </ion-fab-button>
+      </ion-fab>
+
+    </ion-slide>
+
+  </ion-slides>
+
+</ion-content>
