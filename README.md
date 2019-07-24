@@ -34,4 +34,4 @@ Http, Menu, ActionSheet, Alert, Button, CardView, Slides, Segment,DateTime, Fab,
 
 <h4>Image Folder</h4>
 
-<a href="https://github.com/Arcangel1994/IonicWithAngularComponents/tree/master/src/assets/web"></a>
+<a href="https://github.com/Arcangel1994/IonicWithAngularComponents/tree/master/src/assets/web">Link #</a>
